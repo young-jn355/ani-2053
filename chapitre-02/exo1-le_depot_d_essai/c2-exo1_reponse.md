@@ -35,7 +35,7 @@ PS C:\Users\User\Desktop\git_ça> git commit -m "Boukala m'aide"
  1 file changed, 0 insertions(+), 0 deletions(-)
  create mode 100644 Fichier3.txt
 PS C:\Users\User\Desktop\git_ça> 
-voici les commandes utilisés pour l'exercice 1 qui consistait à créez un dépôt vide, ajoutez trois fichiers en trois commits, et affichez l'historique en une ligne par commit. Puis affichez le graphe.
+voici les commandes utilisés pour l'exercice 1 qui consistait à créez un dépôt vide. Ajoutez trois fichiers en trois commits, et affichez l'historique en une ligne par commit. Puis affichez le graphe.
 Ici on peut juste voir ceux utilisés pour le fichier car pour les deux autres j'ai dû nettoyer le terminal avec clear.
 la modiification d'un fichier de mon travail.
 
