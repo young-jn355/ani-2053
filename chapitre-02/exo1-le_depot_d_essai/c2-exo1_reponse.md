@@ -41,3 +41,6 @@ la modiification d'un fichier de mon travail.
 
 ##sujet 1
 un commit dans Git est l'action de sauvegarder l'état à un instant précis mais c'est aussi l'enregistrement.
+
+##sujet 2
+git lui est logiciel de gestion de version locale
