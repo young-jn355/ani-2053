@@ -38,3 +38,6 @@ PS C:\Users\User\Desktop\git_ça>
 voici les commandes utilisés pour l'exercice 1 qui consistait à créez un dépôt vide, ajoutez trois fichiers en trois commits, et affichez l'historique en une ligne par commit. Puis affichez le graphe.
 Ici on peut juste voir ceux utilisés pour le fichier car pour les deux autres j'ai dû nettoyer le terminal avec clear.
 la modiification d'un fichier de mon travail.
+
+##sujet 1
+un commit dans Git est l'action de sauvegarder l'état à un instant précis mais c'est aussi l'enregistrement.
