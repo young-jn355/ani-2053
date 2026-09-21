@@ -3,4 +3,7 @@ git add -p me permet de choisir précisement quelles parties de mes modification
 git pull permet de recupérer les modifications des autres .
 
 
+<<<<<<< HEAD
 Ligne ajoutee depuis Clone 1
+=======
+
