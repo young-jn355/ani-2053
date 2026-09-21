@@ -1,0 +1,1 @@
+git staus c'set le tableau de bord qui permet de vérifier l'état actuel du dossier de travail.
