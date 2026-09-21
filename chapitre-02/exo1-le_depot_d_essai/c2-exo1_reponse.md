@@ -39,8 +39,4 @@ voici les commandes utilisés pour l'exercice 1 qui consistait à créez un dép
 Ici on peut juste voir ceux utilisés pour le fichier car pour les deux autres j'ai dû nettoyer le terminal avec clear.
 la modiification d'un fichier de mon travail.
 
-##sujet 1
-un commit dans Git est l'action de sauvegarder l'état à un instant précis mais c'est aussi l'enregistrement.
-
-##sujet 2
-git lui est logiciel de gestion de version locale
+il existe un différence entre git et gitHub git lui est un logiciel de gestion local et Git hub est un service en ligne qui héberge des projrts utilisant Git. 
